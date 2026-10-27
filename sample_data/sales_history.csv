@@ -1,0 +1,5 @@
+sku,units_sold,period_days,current_stock
+WATCH-001,60,30,20
+WATCH-002,45,30,10
+WATCH-003,90,30,3
+WATCH-004,15,30,8

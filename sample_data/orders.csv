@@ -1,0 +1,5 @@
+order_id,tracking_number,fulfillment_status,sku
+1001,TRACK-1001,fulfilled,WATCH-001
+1002,,fulfilled,WATCH-002
+1003,,unfulfilled,WATCH-003
+1003,TRACK-1003,fulfilled,WATCH-005
